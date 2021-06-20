@@ -1,5 +1,6 @@
 <h2> Hi there✋ I'm Bogdan</h2>
 <img align='right' src="https://media4.giphy.com/media/cpMdmnEsZ9uVUfhHSe/giphy.gif" width="230">
+
 ## 😎 About me
 - 🔞 __19 y.o.__
 - 📍 __Moscow, Russia__
