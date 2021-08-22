@@ -4,7 +4,7 @@
 ## 😎 About me
 - 🔞 __19 y.o.__
 - 📍 __Moscow, Russia__
-- 🎓 __Software Engineer Freshman in The Higher School of Economics, Moscow__
+- 🎓 __Software Engineer Sophomore in The Higher School of Economics, Moscow__
 - 💻 __Skilled in software development, cybersecurity defence and game development__
 
 ## 💻 Skills
