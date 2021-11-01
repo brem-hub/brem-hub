@@ -17,7 +17,7 @@
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>      🟩 (middle) 1+ years of experience
 - __WinForms__
 - __Unity__
-- __ ASP__
+- __ASP__
 
 <img alt="Python" src="https://img.shields.io/badge/-Python-ffd541?style=for-the-badge&logo=Python"/> 🟩 (middle) 3+ years of experience
 - __PyGame__
