@@ -5,7 +5,7 @@
 - 🔞 __20 y.o.__
 - 📍 __Moscow, Russia__
 - 🎓 __Software Engineer Sophomore in The Higher School of Economics, Moscow__
-- 💻 __Skilled in software development, cybersecurity defence and game development__
+- 💻 __Software development, Cybersecurity Game development__
 
 ## 💻 Skills
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  🟩 (middle) 1.5+ years of experience
