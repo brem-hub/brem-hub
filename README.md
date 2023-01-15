@@ -8,29 +8,31 @@
 - 💻 __Software development, Cybersecurity Game development__
 
 ## 💻 Skills
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  🟩 (middle) 1.5+ years of experience
-- __STL__
-- __GTK__
-- __BOOST__
-- __Unreal engine 4__
 
-<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>      🟩 (middle) 1+ years of experience
-- __WinForms__
-- __Unity__
-- __ASP__
+<img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>  🟩 2.5+ years of experience
+- __Standart libraries__
+- Project example: https://github.com/brem-hub/godirb
 
-<img alt="Python" src="https://img.shields.io/badge/-Python-ffd541?style=for-the-badge&logo=Python"/> 🟩 (middle) 4+ years of experience
+<img alt="Python" src="https://img.shields.io/badge/-Python-ffd541?style=for-the-badge&logo=Python"/> 🟩 4+ years of experience
 - __PyGame__
 - __Pandas__
 - __Django__
 - __Standart libraries__
 - Project example: https://github.com/brem-hub/minute-of-fame
 
-<img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>  🟩 (middle) 2.5+ years of experience
-- __Standart libraries__
-- Project example: https://github.com/brem-hub/godirb
 
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>  🟨 (juniour) 0.5+ years of experience
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  🟨 1.5+ years of experience
+- __STL__
+- __GTK__
+- __BOOST__
+- __Unreal engine 4__
+
+<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>      🟨  1+ years of experience
+- __WinForms__
+- __Unity__
+- __ASP__
+
+<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>  🟨 0.5+ years of experience
 - __Slim__
 - __Standart libraries__
 
