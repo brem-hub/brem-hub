@@ -5,7 +5,7 @@
 - 🔞 __20 y.o.__
 - 📍 __Moscow, Russia__
 - 🎓 __Software Engineer Sophomore in The Higher School of Economics, Moscow__
-- 💻 __Software development, Cybersecurity Game development__
+- 💻 __Yandex__
 
 ## 💻 Skills
 
